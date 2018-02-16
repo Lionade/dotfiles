@@ -151,7 +151,7 @@ workspace $ws10 output $monitor_three
 #bind app to workspace
 for_window [class="Gnome-terminal"] move to workspace $ws2
 for_window [class="Firefox"] move to workspace $ws3
-for_window [class="TelegramDesktop"] move to workspace $ws9
+for_window [class="TelegramDesktop"] move to workspace $ws8
 for_window [class="Spotify"] move to workspace $ws9
 
 
